@@ -63,3 +63,28 @@ A user-friendly design is critical in a booking system because:
 - **Increases Conversion Rates**: Clear navigation, minimal steps, and a seamless experience lead to more completed bookings.
 
 ---
+
+## Design Properties
+
+### Color Styles
+- **Primary Color**: `#34967C`
+- **Secondary Color**: `#FFA800`
+- **Shimmer**: `#FFFFFF`
+- **Text Color**: `#000000`
+
+### Typography
+- **Font Family**: `Quicksand`
+- **Headings**: `24px`
+- **Body Text**: `16px`
+- **Buttons**: `12px`
+
+### Design Goals
+-Create an intuitive, user-friendly interface to enhance user engagement.
+-Ensure responsiveness across devices, including desktops, tablets, and smartphones.
+-Maintain a clean and consistent aesthetic that aligns with modern design principles.
+-Focus on accessibility to ensure inclusivity for all users.
+
+### Importance of Identifying Design Properties in a Mockup Design
+Identifying design properties in a mockup design is a critical step in ensuring the successful translation of design concepts into functional, visually appealing digital products. These properties define the visual and functional characteristics of the design and serve as a bridge between the designer’s vision and the developer’s implementation. Here's why identifying design properties is essential:
+
+---------------------
