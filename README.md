@@ -179,3 +179,84 @@ Identifying design properties in a mockup design is a critical step in ensuring 
   - Monitor and improve the team’s workflow.
 
 ---
+
+## UI Component Patterns
+
+### Components Overview
+For the Airbnb Clone project, I plan to create reusable and scalable UI components to ensure consistency and modularity. Below are the primary components I will develop:
+
+1. **Navbar**  
+   - **Purpose**: To provide site-wide navigation for users.
+   - **Features**:  
+     - Logo and branding
+     - Navigation links (e.g., Home, Search, Favorites, Profile)
+     - Responsive design with a collapsible menu for mobile devices
+     - Search bar integrated into the Navbar for quick property searches
+
+2. **Property Card**  
+   - **Purpose**: To display individual property listings on the main page or search results.
+   - **Features**:  
+     - Property image thumbnail
+     - Title, price, and location
+     - Short description or key features (e.g., “2 Beds · 1 Bath”)
+     - "View Details" button for navigating to the detailed property page
+
+3. **Footer**  
+   - **Purpose**: To provide additional site navigation and general information.
+   - **Features**:  
+     - Links to key pages (e.g., About Us, Contact, FAQs)
+     - Social media icons
+     - Copyright and privacy policy
+
+4. **Search Bar**  
+   - **Purpose**: To enable users to filter properties based on criteria.
+   - **Features**:  
+     - Input for location
+     - Date pickers for check-in and check-out dates
+     - Dropdowns for guest numbers
+     - Search button
+
+5. **Property Details Section**  
+   - **Purpose**: To display in-depth details about a selected property.
+   - **Features**:  
+     - Carousel for multiple property images
+     - Detailed description and amenities
+     - Booking section with date selectors and a booking button
+     - Map integration to show property location
+
+6. **Booking Form**  
+   - **Purpose**: To handle the reservation process.
+   - **Features**:  
+     - Inputs for check-in and check-out dates
+     - Guest number selection
+     - Booking summary with price breakdown
+     - "Confirm Booking" button
+
+7. **Button Components**  
+   - **Purpose**: To provide consistent button styles throughout the application.
+   - **Features**:  
+     - Primary button for actions like "Book Now" or "Search"
+     - Secondary button for navigation or less critical actions
+     - Responsive and accessible design with hover and focus states
+
+8. **User Authentication Forms**  
+   - **Purpose**: To enable secure login and registration for users.
+   - **Features**:  
+     - Login form with email and password inputs
+     - Registration form with fields like name, email, and password
+     - "Forgot Password" link for recovery
+
+9. **Carousel Component**  
+   - **Purpose**: To display multiple images for properties in an interactive way.
+   - **Features**:  
+     - Swipeable or clickable navigation for images
+     - Auto-play functionality with controls for pausing
+     - Thumbnail previews for quick navigation
+
+### Benefits of Component Patterns
+- **Reusability**: Components like Navbar and Footer can be reused across multiple pages, reducing redundant code.
+- **Consistency**: Using standardized components ensures a cohesive design throughout the application.
+- **Maintainability**: Modular components make the codebase easier to understand, debug, and extend.
+- **Scalability**: Components can be easily adapted or extended as the project grows in complexity.
+
+---
