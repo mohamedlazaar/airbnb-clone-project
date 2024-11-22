@@ -16,12 +16,6 @@ This project has been a great opportunity for me to apply my frontend developmen
     - Implement robust search functionality with filters for location, price, and availability.
     - Ensure the application is mobile-friendly and optimized for all screen sizes.
 
-## Key Features
-    - Property Listings: Display multiple properties with relevant details and images.
-    - Detailed Property Page: Provide in-depth information, including amenities and pricing.
-    - Booking System: Allow users to select dates, number of guests, and confirm bookings.
-    - Search Functionality: Let users search for properties with filters like location, price, and availability.
-    - Authentication: Enable users to register, log in, and manage their profiles securely.
 
 ## Tech Stack
 
@@ -34,3 +28,38 @@ This project has been a great opportunity for me to apply my frontend developmen
 -Version Control: Git and GitHub for collaboration and version tracking.
 -Backend: Node.js, Express.js
 -Database: MongoDB
+
+## UI/UX Design Planning
+
+### Design Goals
+The UI/UX design for this project focuses on:
+- **Simplicity**: Creating an intuitive interface that users can navigate easily.
+- **Visual Appeal**: Using modern and clean layouts to engage users.
+- **Responsiveness**: Ensuring the application works seamlessly on all devices (desktop, tablet, and mobile).
+- **Accessibility**: Making the design inclusive and easy to use for all users.
+- **Efficiency**: Streamlining the booking process with minimal steps and clear instructions.
+
+### Key Features to Implement
+1. **Clear Navigation**: Ensure users can easily move between pages like property listings, detailed views, and the checkout process.
+2. **Property Filters**: Allow users to filter properties based on location, price, and availability.
+3. **Consistent Design Language**: Maintain uniform styling and design patterns across all pages.
+4. **Interactive Elements**: Use hover effects, buttons, and animations to enhance user engagement.
+5. **Error Handling**: Provide clear messages for invalid inputs or booking issues.
+
+### Primary Pages
+
+| **Page**                  | **Description**                                                                                                                                                              | **Key UI Elements**                                                                                  |
+|---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| **Property Listing View** | Displays a list of available properties with basic details like title, price, description, and thumbnail images.                                                          | - Grid layout for properties<br>- Filters for location, price, and availability<br>- Search bar    |
+| **Listing Detailed View** | Shows detailed information about a specific property, including price, amenities, location, and multiple images.                                                          | - Large property images<br>- Key details (amenities, pricing, location)<br>- “Book Now” button     |
+| **Simple Checkout View**  | Provides users with an interface to finalize their booking by selecting dates, the number of guests, and confirming payment information.                                    | - Date pickers<br>- Guest number input<br>- Booking summary<br>- Payment details form              |
+
+### Importance of a User-Friendly Design
+A user-friendly design is critical in a booking system because:
+- **Reduces Friction**: Simplifies complex processes like property selection, booking, and payment, ensuring users don’t feel overwhelmed.
+- **Improves Engagement**: A visually appealing and easy-to-use interface encourages users to stay on the platform longer and complete bookings.
+- **Enhances Accessibility**: An intuitive design ensures users of all skill levels can navigate the platform.
+- **Builds Trust**: A professional and polished design fosters trust in the platform, encouraging repeat use and recommendations.
+- **Increases Conversion Rates**: Clear navigation, minimal steps, and a seamless experience lead to more completed bookings.
+
+---
