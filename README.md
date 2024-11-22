@@ -88,3 +88,94 @@ A user-friendly design is critical in a booking system because:
 Identifying design properties in a mockup design is a critical step in ensuring the successful translation of design concepts into functional, visually appealing digital products. These properties define the visual and functional characteristics of the design and serve as a bridge between the designer’s vision and the developer’s implementation. Here's why identifying design properties is essential:
 
 ---------------------
+
+
+## Project Roles and Responsibilities
+
+### 1. Project Manager (PM) 🗂️
+- **Role Overview**: The leader of the project responsible for planning, execution, and communication.  
+- **Key Responsibilities**:
+  - Oversee project progress and ensure milestones are met.
+  - Facilitate communication among team members and stakeholders.
+  - Manage timelines, budgets, and resources.
+  - Identify and mitigate risks.
+  - Serve as the primary point of contact for the team and stakeholders.  
+
+---
+
+### 2. Frontend Developers 💻
+- **Role Overview**: Focus on building the user interface and ensuring a smooth user experience.  
+- **Key Responsibilities**:
+  - Implement UI/UX designs using React.js, TypeScript, and TailwindCSS.
+  - Develop reusable and scalable components for pages like property listings, details, and booking.
+  - Ensure responsiveness and compatibility across devices.
+  - Collaborate with designers to bring mockups to life.
+  - Optimize performance and maintain code quality.
+
+---
+
+### 3. Backend Developers 🔧
+- **Role Overview**: Manage the server-side functionality and ensure seamless integration with the frontend.  
+- **Key Responsibilities**:
+  - Develop server-side logic using Python and Django.
+  - Design and manage the database schema (MySQL).
+  - Build and maintain APIs for data exchange with the frontend.
+  - Implement authentication and data security.
+  - Ensure backend performance and scalability.
+
+---
+
+### 4. Designers 🎨
+- **Role Overview**: Create visually appealing and user-friendly designs.  
+- **Key Responsibilities**:
+  - Develop wireframes, mockups, and prototypes.
+  - Define the color scheme, typography, and layout.
+  - Collaborate with frontend developers to implement designs.
+  - Conduct usability testing and gather user feedback.
+  - Ensure accessibility standards are met.
+
+---
+
+### 5. QA/Testers 🧪
+- **Role Overview**: Ensure the quality and reliability of the application.  
+- **Key Responsibilities**:
+  - Write and execute test cases to identify bugs.
+  - Perform manual and automated testing.
+  - Verify that the application meets functional and non-functional requirements.
+  - Document bugs and retest after fixes.
+  - Conduct regression testing before deployment.
+
+---
+
+### 6. DevOps Engineers 🚀
+- **Role Overview**: Handle deployment and ensure smooth operation in production.  
+- **Key Responsibilities**:
+  - Automate deployment processes using CI/CD pipelines.
+  - Manage server configurations and cloud infrastructure.
+  - Monitor application performance and uptime.
+  - Implement backup and disaster recovery strategies.
+  - Ensure security and compliance in the production environment.
+
+---
+
+### 7. Product Owner (PO) 📋
+- **Role Overview**: Define the project’s vision and ensure it meets user needs.  
+- **Key Responsibilities**:
+  - Prioritize features and maintain the product backlog.
+  - Act as a liaison between stakeholders and the development team.
+  - Provide clarity on project goals and user requirements.
+  - Ensure the final product aligns with business objectives.
+  - Approve completed work and provide feedback.
+
+---
+
+### 8. Scrum Master 🏅
+- **Role Overview**: Facilitate Agile processes and ensure the team follows Scrum practices.  
+- **Key Responsibilities**:
+  - Organize and lead Scrum ceremonies (e.g., stand-ups, sprint planning, retrospectives).
+  - Remove roadblocks that hinder progress.
+  - Foster collaboration and a productive team environment.
+  - Coach the team on Agile principles.
+  - Monitor and improve the team’s workflow.
+
+---
